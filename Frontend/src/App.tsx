@@ -1,9 +1,11 @@
+import Controller from "./Components/Controller"
+
 function App() {
 
   return (
     <>
       <div>
-        Hello
+        <Controller/>
       </div>
     </>
   )
